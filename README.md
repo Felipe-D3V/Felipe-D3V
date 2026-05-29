@@ -9,28 +9,28 @@ Me chamo Felipe Gabriel, tenho 20 anos e sou natural de Teresina. Atualmente, mo
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCpgGJvbo_kbe5ZzTWYVZRBA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@FelipeGabriel-dev">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCpgGJvbo_kbe5ZzTWYVZRBA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/Felipe-D3V?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Felipe-D3V?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Felipe-D3V?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Felipe-D3V?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -81,11 +81,19 @@ Me chamo Felipe Gabriel, tenho 20 anos e sou natural de Teresina. Atualmente, mo
 />
 <img 
     align="left" 
-    alt="C#" 
-    title="C#"
+    alt="C" 
+    title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://commons.wikimedia.org/wiki/File:Csharp_Logo.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+<img 
+    align="left" 
+    alt="C#"
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"" 
 />
 <img 
     align="left" 
@@ -93,7 +101,7 @@ Me chamo Felipe Gabriel, tenho 20 anos e sou natural de Teresina. Atualmente, mo
     title="C++" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" 
+    src="src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"" 
 />
 <img 
     align="left" 
@@ -101,7 +109,7 @@ Me chamo Felipe Gabriel, tenho 20 anos e sou natural de Teresina. Atualmente, mo
     title="SpringBoot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://seeklogo.com/vector-logo/569088/spring-boot" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 <img 
     align="left" 
@@ -109,7 +117,7 @@ Me chamo Felipe Gabriel, tenho 20 anos e sou natural de Teresina. Atualmente, mo
     title="Unity"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.reddit.com/r/Unity3D/comments/r0je4e/free_icons_for_unity_unity_hub_on_mac_images/?tl=pt-pt" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"
 />
 <img 
     align="left" 
@@ -117,7 +125,7 @@ Me chamo Felipe Gabriel, tenho 20 anos e sou natural de Teresina. Atualmente, mo
     title="Unreal"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://uxwing.com/unreal-engine-icon/" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg"
 />
 <img 
     align="left" 
@@ -125,7 +133,7 @@ Me chamo Felipe Gabriel, tenho 20 anos e sou natural de Teresina. Atualmente, mo
     title="Postgre"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://commons.wikimedia.org/wiki/File:Postgresql_elephant.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img 
     align="left" 
@@ -133,7 +141,7 @@ Me chamo Felipe Gabriel, tenho 20 anos e sou natural de Teresina. Atualmente, mo
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://icon-icons.com/icon/mysql-workbench/93532" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <img 
     align="left" 
@@ -163,14 +171,14 @@ Me chamo Felipe Gabriel, tenho 20 anos e sou natural de Teresina. Atualmente, mo
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Felipe-D3V&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-D3V&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
